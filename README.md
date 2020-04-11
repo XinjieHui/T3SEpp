@@ -1,5 +1,5 @@
 # T3SEpp
-T3SEpp is an Integrated Prediction Pipeline for Bacterial Type III Secreted Effectors.
+An Integrated Prediction Pipeline for Bacterial Type III Secreted Effectors.
 
 Many gram-negative bacteria infect hosts and cause diseases by translocating a variety of type III secreted effectors (T3SEs) into host cytoplasm. However, it remains challenging for accurate prediction of T3SEs. Traditional computational models mainly depend on the sequence-based atypical features buried in the N-terminal peptides of T3SEs, but tend to have a high false positive rate.
 
